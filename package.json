@@ -1,0 +1,22 @@
+{
+  "name": "web3rpc-tg-bot",
+  "version": "1.0.0",
+  "description": "web3rpc-tg-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmjsm/web3rpc-tg-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsmjsm/web3rpc-tg-bot/issues"
+  },
+  "homepage": "https://github.com/jsmjsm/web3rpc-tg-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
